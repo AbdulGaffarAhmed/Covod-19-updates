@@ -1,0 +1,212 @@
+.head{
+    text-align: center;
+    font-size: 50px;
+    font-family:"Audiowide", sans-serif ;
+}
+#input{
+    text-align:center;
+    justify-content: center;
+}
+#input input[type="text"] {
+    font-weight: bold;
+    font-size: 1.5rem;
+    font-family: "Audiowide", sans-serif;
+    background-color: transparent;
+    border: solid 4px black;
+    color: black;
+    border-radius: 2px;
+    margin-right:4px ;
+}
+#ab {
+    height: 2.5rem;
+    width: 6.5rem;
+    background:#282D3C;
+    font-weight: bold;
+    color:whitesmoke;
+    font-size: 1.5rem;
+    border: none;
+    margin-bottom: 35px;
+    font-family: "Audiowide", sans-serif;
+}
+#name{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+#countryname{
+    background-color: aquamarine;
+    height: 100px;
+    width: 300px;
+    font-family: "Audiowide", sans-serif;
+    text-align: center;
+   }
+#active{
+    background-color: rgb(136, 176, 75);
+    height: 100px;
+    width: 300px;
+    font-family: "Audiowide", sans-serif;
+    text-align: center;
+}
+#confirmed{
+    background-color:rgb(239, 192, 80);
+    height: 100px;
+    width: 300px;
+    font-family: "Audiowide", sans-serif;
+    text-align: center;
+}
+#recovered{
+    background-color: rgb(152, 180, 212);
+    height: 100px;
+    width: 300px;
+    font-family:"Audiowide", sans-serif;
+    text-align: center;
+}
+#death{
+    background-color:rgb(85, 180, 176);
+    height: 100px;
+    width: 300px;
+    font-family:"Audiowide", sans-serif;
+    text-align: center;
+}
+#Date{
+    background-color:#E8A798;
+    height: 130px;
+    width: 300px;
+    font-family:"Audiowide", sans-serif;
+    text-align: center;
+    
+}
+.m{
+    text-align: center;
+    font-size: 30px;
+    font-family:"Audiowide", sans-serif;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 0px 150px;
+    font-family: "Audiowide", sans-serif;
+}
+.main h2{
+    text-align: center;
+}
+#main1 img{
+    height: 17em;
+    width: 17rem;
+    border-radius: 50%;
+}
+#main2 img{
+        height: 17em;
+        width: 17rem;
+        border-radius: 50%;
+}
+#main3 img{
+    height: 17em;
+     width: 17rem;
+    border-radius: 50%;
+}
+#main4 img{
+height: 17em;
+width: 17rem;
+border-radius: 50%;
+ }
+#main5 img{
+    height: 17em;
+    width: 17rem;
+    border-radius: 50%;
+}
+#main6 img{
+    height: 17em;
+    width: 17rem;
+    border-radius: 50%;
+}
+#main7 img{
+    height: 17em;
+    width: 17rem;
+    border-radius: 50%;
+}
+#main8 img{
+    height: 17em;
+    width: 17rem;
+    border-radius: 50%;
+ }
+#main9 img{
+    height: 17em;
+    width: 17rem;
+    border-radius: 50%;
+}
+#main10 img{
+height: 17em;
+width: 17rem;
+border-radius: 50%;
+}
+.n{
+    text-align: center;
+    font-size: 30px;
+    font-family:"Audiowide", sans-serif;
+}
+.class{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 0px 150px;
+    font-family: "Audiowide", sans-serif;
+}
+.class h4{
+    text-align: center;
+}
+#class1 img{
+    height: 17em;
+    width: 17rem;
+    border-radius: 50%;
+    padding: 0px 100px;
+}
+#class2 img{
+        height: 17em;
+        width: 17rem;
+        border-radius: 50%;
+        padding: 0px 100px;
+}
+#class3 img{
+    height: 17em;
+     width: 17rem;
+    border-radius: 50%;
+    padding: 0px 100px;
+}
+#class4 img{
+height: 17em;
+width: 17rem;
+border-radius: 50%;
+padding: 0px 100px;
+ }
+#class5 img{
+    height: 17em;
+    width: 17rem;
+    border-radius: 50%;
+    padding: 0px 100px;
+}
+#class6 img{
+    height: 17em;
+    width: 17rem;
+    border-radius: 50%;
+    padding: 0px 100px;
+}
+#class7 img{
+    height: 17em;
+    width: 17rem;
+    border-radius: 50%;
+    padding: 0px 100px;
+}
+#class8 img{
+    height: 17em;
+    width: 17rem;
+    border-radius: 50%;
+    padding: 0px 100px;
+ }
+#class9 img{
+    height: 17em;
+    width: 17rem;
+    border-radius: 50%;
+    padding: 0px 100px;
+}
